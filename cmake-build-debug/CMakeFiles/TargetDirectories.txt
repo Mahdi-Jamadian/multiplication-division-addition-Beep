@@ -1,0 +1,3 @@
+G:/project/C/multiplication,division,addition,Beep/cmake-build-debug/CMakeFiles/multiplication_division_addition_Beep_c.dir
+G:/project/C/multiplication,division,addition,Beep/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/project/C/multiplication,division,addition,Beep/cmake-build-debug/CMakeFiles/rebuild_cache.dir
